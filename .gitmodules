@@ -1,0 +1,6 @@
+[submodule "uma-deep-fake-contracts"]
+	path = uma-deep-fake-contracts
+	url = https://github.com/lajosdeme/uma-deep-fake-contracts
+[submodule "uma-deepfake-db"]
+	path = uma-deepfake-db
+	url = https://github.com/lajosdeme/uma-deepfake-db
